@@ -11,9 +11,6 @@ This is a face image classification problem. The classification criterion is not
 ## Credit
 
 ```
-@article{Deep Learning Project,
-  title={Face classification,
-  author={ASSOUMA Joseph, ZEIDAN Carla},
-  year={2021}
-}
+authors = ASSOUMA Joseph, ZEIDAN Carla
+year = 2021
 ```
